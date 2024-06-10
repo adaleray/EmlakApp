@@ -34,9 +34,6 @@ Proje, iki ana bileşenden oluşur:
 Projeyi bilgisayarınıza klonlamak için aşağıdaki adımları izleyin:
 
 1. GitHub deposunu klonlayın:
-    ```bash
-    git clone https://github.com/kullaniciadi/emlakci-uygulamasi.git
-    ```
 2. Projeyi Visual Studio veya başka bir C# IDE'sinde açın.
 3. Projeyi derleyin ve çalıştırın.
 
