@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "995HXRAbF4Cj2WaxAqWxC2JCLl7j+rqK3FcorRZGpi001GSKR6fqbiyRachXvF1Lxbh/f7zMZhNhf6zpAsLSuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eray\\Desktop\\NtpEmlakSistemi\\ErayEmlak\\ErayEmlak.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eray\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Eray\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

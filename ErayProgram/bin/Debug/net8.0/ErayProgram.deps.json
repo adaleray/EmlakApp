@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ErayProgram/1.0.0": {
+        "dependencies": {
+          "ErayEmlak": "1.0.0"
+        },
+        "runtime": {
+          "ErayProgram.dll": {}
+        }
+      },
+      "ErayEmlak/1.0.0": {
+        "runtime": {
+          "ErayEmlak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ErayProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ErayEmlak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
